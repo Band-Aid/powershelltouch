@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "touch", "touch\touch.csproj", "{7BF97BEC-E19D-401E-A19A-7606A03657FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF97BEC-E19D-401E-A19A-7606A03657FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF97BEC-E19D-401E-A19A-7606A03657FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF97BEC-E19D-401E-A19A-7606A03657FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF97BEC-E19D-401E-A19A-7606A03657FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96051F5-1C73-4613-B1C1-0E12ED037313}
+	EndGlobalSection
+EndGlobal
